@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="with=device-width, initial-scale=1.0">      
+        <title>iCAN</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.6.0/css/fontawesome.min.css" integrity="sha384-NvKbDTEnL+A8F/AA5Tc5kmMLSJHUO868P+lDtTpJIeQdGYaUIuLr4lVGOEA1OcMy" crossorigin="anonymous">
+    </head>
+
+    <body>
+        <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+
+
+ 
+
+        <section  class="sub-header">
+            <nav>
+                <a href="index.html"><img src="LOGO.jpg"></a>
+                <div class="nav-links" id="navlinks">
+                    <ion-icon class="fa" name="close-outline" onclick="hidemenu()"></ion-icon>
+                    <ul>
+                        <li><a href="file:///C:/Users/nanat/OneDrive/Desktop/iCAN%20SERVICES/iCAN.html">HOME</a></li>
+                        <li><a href="file:///C:/Users/nanat/OneDrive/Desktop/iCAN%20SERVICES/About%20Us.html">ABOUT US</a></li>
+                        <li><a href="file:///C:/Users/nanat/OneDrive/Desktop/iCAN%20SERVICES/Our%20Services.html">OUR SERVICES</a></li>
+                        <li><a href="file:///C:/Users/nanat/OneDrive/Desktop/iCAN%20SERVICES/Contact%20Us.html">CONTACT US</a></li>
+                    </ul> 
+                </div>
+                <ion-icon class="fa" name="grid-outline" onclick="showmenu()"></ion-icon>
+            </nav>
+            <div class="text-box">
+                <h1>OUR SERVICES</h1>
+            </div>
+        </section>
+
+        <section class="our-services">
+            <div class="service-section">
+                <div class="service-text">
+                    <h2>Buying of Goods</h2>
+                    <p>
+                        We purchase goods online on behalf of our customers, ensuring quality and timely delivery.
+                    </p>
+                </div>
+                <div class="service-image">
+                    <img src="money.png" alt="Buying of Goods">
+                </div>
+            </div>
+        
+            <div class="service-section">
+                <div class="service-text">
+                    <h2>Exchange & Money Transfer</h2>
+                    <p>
+                        Secure and reliable currency exchange and money transfer services worldwide.We facilitate money transfers to countries in Europe and America with transparent fees and fast processing times.
+                    </p>
+                </div>
+                <div class="service-image">
+                    <img src="exchange.png" alt="Exchange & Money Transfer">
+                </div>
+            </div>
+        
+            <div class="service-section">
+                <div class="service-text">
+                    <h2>Transportation of Goods</h2>
+                    <p>
+                        Efficient and cost-effective transportation solutions from various countries to your doorstep.We facilitate your online shopping and order quality products from various suppliers. We ensure fast and secure delivery of your packages at both national and international levels, with real-time tracking and a maximum shipping time of 5 days
+                    </p>
+                </div>
+                <div class="service-image">
+                    <img src="transport.jpg" alt="Transportation of Goods">
+                </div>
+            </div>
+        </section>
+
+        <footer>
+        <section class="footer">
+            <div class="footer-content">
+                <div>
+                    <h3>About Us</h3>
+                    <p>ICAN Services is dedicated to providing top-notch services in online buying, exchange, and transportation.</p>
+                </div>
+                <div>
+                    <h3>Contact</h3>
+                    <p>Email: icanservices@gmail.com</p>
+                    <p>Phone: +237 6-51-62-66-20</p>
+                </div>
+                <div class="social-icons">
+                    <h3>Follow Us</h3>
+                    <a href="#" aria-label="Facebook"><ion-icon name="logo-facebook"></ion-icon></a>
+                    <a href="#" aria-label="Twitter"><ion-icon name="logo-twitter"></ion-icon></a>
+                    <a href="#" aria-label="Instagram"><ion-icon name="logo-instagram"></ion-icon</a>
+                </div>
+            </div>
+            <div>
+                <p>&copy; 2024 ICAN Services. All rights reserved.</p>
+            </div>
+
+        </section>
+        </footer>
+
+
+        <script>
+          var navlinks = document.getElementById("navlinks")
+          function showmenu(){
+            navlinks.style.right ="0";
+          }  
+          function hidemenu(){
+            navlinks.style.right ="-200px";
+          }
+        </script>
+    </body>
+</html>

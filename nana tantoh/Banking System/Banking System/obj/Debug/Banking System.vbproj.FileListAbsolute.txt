@@ -1,0 +1,11 @@
+c:\users\moukam\documents\visual studio 2015\Projects\Banking System\Banking System\bin\Debug\Banking System.exe.config
+c:\users\moukam\documents\visual studio 2015\Projects\Banking System\Banking System\bin\Debug\Banking System.exe
+c:\users\moukam\documents\visual studio 2015\Projects\Banking System\Banking System\bin\Debug\Banking System.pdb
+c:\users\moukam\documents\visual studio 2015\Projects\Banking System\Banking System\bin\Debug\Banking System.xml
+c:\users\moukam\documents\visual studio 2015\Projects\Banking System\Banking System\obj\Debug\Banking System.vbprojResolveAssemblyReference.cache
+c:\users\moukam\documents\visual studio 2015\Projects\Banking System\Banking System\obj\Debug\Banking_System.Form1.resources
+c:\users\moukam\documents\visual studio 2015\Projects\Banking System\Banking System\obj\Debug\Banking_System.Resources.resources
+c:\users\moukam\documents\visual studio 2015\Projects\Banking System\Banking System\obj\Debug\Banking System.vbproj.GenerateResource.Cache
+c:\users\moukam\documents\visual studio 2015\Projects\Banking System\Banking System\obj\Debug\Banking System.exe
+c:\users\moukam\documents\visual studio 2015\Projects\Banking System\Banking System\obj\Debug\Banking System.xml
+c:\users\moukam\documents\visual studio 2015\Projects\Banking System\Banking System\obj\Debug\Banking System.pdb
